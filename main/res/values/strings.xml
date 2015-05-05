@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My places</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="opcion1">View places</string>
+    <string name="opcion2">Settings</string>
+    <string name="opcion3">About</string>
+    <string name="opcion4">Exit</string>
+    <string name="label_nombre">Name:</string>
+    <string name="hint_nombre">something for identifying the place</string>
+    <string name="label_tipo">Type:</string>
+    <string name="label_direccion">Address:</string>
+    <string name="hint_direccion">place address</string>
+    <string name="label_telefono">Telephone:</string>
+    <string name="hint_telefono">contact telephone</string>
+    <string name="label_url">Url:</string>
+    <string name="hint_url">web page</string>
+    <string name="label_comentario">Comment:</string>
+    <string name="hint_comentario">place here your annotations</string>
+    <string name="action_settings">Settings</string>
+</resources>
